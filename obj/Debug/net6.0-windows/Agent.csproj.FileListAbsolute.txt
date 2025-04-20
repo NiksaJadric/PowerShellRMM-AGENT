@@ -1,0 +1,5 @@
+C:\Users\Nike\PowerShellRMM\Agent\obj\Debug\net6.0-windows\Agent.csproj.AssemblyReference.cache
+C:\Users\Nike\PowerShellRMM\Agent\obj\Debug\net6.0-windows\Agent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nike\PowerShellRMM\Agent\obj\Debug\net6.0-windows\Agent.AssemblyInfoInputs.cache
+C:\Users\Nike\PowerShellRMM\Agent\obj\Debug\net6.0-windows\Agent.AssemblyInfo.cs
+C:\Users\Nike\PowerShellRMM\Agent\obj\Debug\net6.0-windows\Agent.csproj.CoreCompileInputs.cache
